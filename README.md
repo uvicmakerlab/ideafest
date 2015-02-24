@@ -1,2 +1,2 @@
-# ideafest
-Slidedeck for IdeaFest 2015: "Humanities in a Lab Coat"
+# Humanities in a Lab Coat
+<p>Slidedeck for <a href="http://www.uvic.ca/ideafest/events/events/2015hums.html" target="_blank">IdeaFest 2015</a> at UVic | March 4th | 2:30pm | with:<br><br><a href="http://hcmc.uvic.ca/" target="_blank">The Humanities Computing and Media Centre</a><br><a href="http://etcl.uvic.ca/" target="_blank">The Electronic Textual Cultures Lab</a><br><a href="http://maker.uvic.ca/" target="_blank">The Maker Lab in the Humanities</a><br><a href="http://dl2learninglab.com/" target="_blank">The Digital Language Learning Lab</a><br><a href="http://web.uvic.ca/ling/speechresearch/index.php?option=com_content&amp;view=article&amp;id=19&amp;Itemid=29" target="_blank">The Speech Research Lab</a><br><a href="http://web.uvic.ca/&#126;adarcy/SLRL.htm" target="_blank">The Sociolinguistics Research Lab</a></p>
