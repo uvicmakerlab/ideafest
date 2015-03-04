@@ -63,10 +63,10 @@ a.roll {
 }
 
 .reveal .logo {
-		position: absolute;
-	 bottom: 15px; 
- 	left: 15px;
- 	z-index: 20;
+		position: fixed;
+	 right: 1px;
+ 	
+ 	
 	}
 
 /*********************************************
